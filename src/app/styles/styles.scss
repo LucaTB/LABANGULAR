@@ -1,0 +1,133 @@
+
+body {
+  margin: auto;
+  font-family: Roboto;
+  background: url(/assets/Cuart.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  justify-content: center;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: auto;
+  text-align: center;
+  width: auto;
+  color: #a12201;
+  background: #212f3c;
+  opacity: 1;
+  border-width: thin;
+  margin: 0;
+  border-radius: 20px;
+}
+
+.boxI {
+  overflow: hidden;
+  margin: 15px;
+  width: auto;
+  height: 300px;
+  text-align: center;
+  padding: 20 20px;
+  align-content: center;
+  border: 5px solid #769b05;
+  border-radius: 20px;
+  background-position: center;
+  background-size: cover;
+  opacity: 100%;
+}
+
+div {
+  width: 95%;
+  height: auto;
+  text-align: left;
+  border-left-width: thin;
+  border-right-width: thin;
+  border-bottom-width: thin;
+  border-top-color: #a12201;
+  border-left-color: #174b87;
+  background: #cdcdcd;
+  color: #000;
+  font-size: 1;
+  font-family: "Roboto", sans-serif;
+  float: left;
+  margin: 20px 30px;
+}
+
+.text {
+  background-color: rgba(0, 0, 0, 0.2);
+  text-align: left;
+  width: auto;
+}
+
+.texto-borde {
+  border-radius: 20px;
+}
+
+.titim {
+  text-align: center;
+  text-shadow: 1.5px 1.5px #000000;
+  color: #b6b6b6;
+  align-content: center;
+}
+.navbar-brand {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+}
+.boxcontainer.box {
+  flex-shrink: 0;
+}
+
+.texto-borde {
+  color: #a12201;
+}
+
+.box {
+  margin: 20px;
+  text-align: center;
+  padding: 20 20px;
+  border-radius: 20px;
+  opacity: 100%;
+}
+.navbar-actions {
+  width: 80%;
+}
+
+.form {
+  display: block;
+  margin-top: 0em;
+}
+
+.p {
+  padding: 10px;
+}
+
+div.footer {
+  width: 100%;
+}
+
+.my-5{
+  width: box;
+  height: auto;
+  padding: 40px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+}
+
+.row {
+  border-radius: 20px;
+  width: 100%;
+}
+
+.d-flex {
+  border-radius: 20px;
+}
